@@ -1,2 +1,2 @@
 # Practic
-repositoty for practic
+repository for practic
